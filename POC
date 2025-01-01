@@ -1,0 +1,3 @@
+xss vulnerability in the saudi application.
+
+https://www.test.com.br/saudi/dwr/interface/%22%3Cscript%3Ealert(1)%3C/script%3E
